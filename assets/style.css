@@ -446,7 +446,7 @@ a:hover {
 /*Search bar end*/
 
 /*parallax effect start our vision*/
-/*.image-bg {
+.image-bg {
   position: fixed;
   top: 0;
   left: 0;
@@ -481,7 +481,7 @@ a:hover {
   text-align: center;
   width: 100%;
   color: rgb(255, 255, 255);
-}*/
+}
 /*parallax effect end our vision*/
 
 /*Expand images start*/
